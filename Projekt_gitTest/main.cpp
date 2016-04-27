@@ -10,10 +10,6 @@ int main(){
 		cout<<str<<endl;
 	}
 	cout<<"Hello world!"<<endl;
-<<<<<<< HEAD
-	// *** Dodatkowy kod dla galezi master ***
-=======
-	// *** Dodatkowy kod dla galezi myBranch ***
->>>>>>> myBranch
+	// *** Dodatkowy kod dla galezi ***
 	_getch();
 }
