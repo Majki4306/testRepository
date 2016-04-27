@@ -11,5 +11,6 @@ int main(){
 	}
 	cout<<"Hello world!"<<endl;
 	// *** Dodatkowy kod dla galezi ***
+	// A B C D E
 	_getch();
 }
